@@ -1,2 +1,2 @@
 # snippets
-stuff!
+Better stuff!
